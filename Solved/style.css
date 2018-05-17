@@ -1,0 +1,15 @@
+.myTable {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-top: gray;
+    
+}
+.heading_top {
+        background-color: rgb(144,180,214);
+}
+th,td {
+     border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 0px;
+    padding: 6px 8px 6px 8px;
+}
